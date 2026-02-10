@@ -1,4 +1,4 @@
-# OSI ve TCP/IP Modelleri -- Çok Detaylı Profesyonel Anlatım (Örnekler ve Kodlar ile)
+# OSI ve TCP/IP Modelleri (Örnekler ve Kodlar ile)
 
 ## İçindekiler
 
